@@ -1,0 +1,24 @@
+{
+  "name": "messi-e-commer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camii2108/E-commerce-mundialista.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camii2108/E-commerce-mundialista/issues"
+  },
+  "homepage": "https://github.com/camii2108/E-commerce-mundialista#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "json": "^11.0.0",
+    "package": "^1.0.1"
+  }
+}
